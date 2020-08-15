@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung",
+      "price": 1520.89
+    },
+    {
+      "name": "Echo Dot",
+      "price": 250,
+      "id": 4
+    }
+  ]
+}
